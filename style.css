@@ -1,5 +1,40 @@
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+margin: 0%;
+}
+
+header {
+  text-align: center;
+}
+
+figure {
+text-align: center;
+}
+
+nav a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+#featured-property figcaption {
+  font-size: small;
+  text-align: center;
+}
+
+#featured-property p {
+  text-align: center;
+}
+#featured-property p {
+  margin: 0 auto;
+  margin-bottom: 20px;
+  width: 800px;
+}
+
+#details div {
+  float: left;
+  background-color: brown;
+  width: 25%;
+  text-align: center;
 }
